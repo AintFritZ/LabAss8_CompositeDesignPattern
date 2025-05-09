@@ -1,0 +1,1 @@
+# LabAss8_CompositeDesignPattern
